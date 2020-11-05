@@ -1,4 +1,4 @@
-### Saudações, seja bem-vindo(a) ao meu perfil. Fique à vontade :smile: :computer:
+# Saudações, seja bem-vindo(a) ao meu perfil. Fique à vontade :smile: :computer:
 Bom dia/Boa tarde/Boa noite, meu nome é Gabriel Dias Ramos Lima, sou estudante de Análise e Desenvolvimento de Sistemas pela Fatec Ferraz de Vasconcelos e formado Técnico de Informática pela Etec Ferraz de Vasconcelos, onde comecei a desenvolver desde 2016.
 
 Fanático por tecnologia, não só em seus produtos, como também nas histórias das criações, de seus criadores e como impacta a sociedade. Entusiasmado em trabalhar em todos os segmentos de desenvolvimento de desktop à mobile.
