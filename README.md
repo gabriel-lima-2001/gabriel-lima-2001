@@ -1,4 +1,4 @@
-### Hi there 👋
+### Saudações, seja bem-vindo(a) ao meu perfil. Fique à vontade :smile: :computer:
 
 <!--
 **gabriel-lima-2001/gabriel-lima-2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
