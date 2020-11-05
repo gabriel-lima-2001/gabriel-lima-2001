@@ -11,3 +11,4 @@ Fanático por tecnologia, não só em seus produtos, como também nas histórias
 
 # :iphone: Redes Sociais
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=lhttps://www.linkedin.com/in/gabriel-lima-94466217b/)](https://www.linkedin.com/in/gabriel-lima-94466217b/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabriel-lima-2001/gabriel-lima-2001)](https://github.com/gabriel-lima-2001/gabriel-lima-2001)
